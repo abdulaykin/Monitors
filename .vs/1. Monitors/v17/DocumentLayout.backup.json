@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software Tools\\Visual Studio 2022\\1. Freelance\\04.10.2024\\3. Operating systems\\1. Monitors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2661839E-01AF-4CDD-A6B7-8887ECA19E19}|1. Monitors\\1. Monitors.vcxproj|D:\\Software Tools\\Visual Studio 2022\\1. Freelance\\04.10.2024\\3. Operating systems\\1. Monitors\\1. Monitors\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2661839E-01AF-4CDD-A6B7-8887ECA19E19}|1. Monitors\\1. Monitors.vcxproj|solutionrelative:1. Monitors\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Software Tools\\Visual Studio 2022\\1. Freelance\\04.10.2024\\3. Operating systems\\1. Monitors\\1. Monitors\\Source.cpp",
+              "RelativeDocumentMoniker": "1. Monitors\\Source.cpp",
+              "ToolTip": "D:\\Software Tools\\Visual Studio 2022\\1. Freelance\\04.10.2024\\3. Operating systems\\1. Monitors\\1. Monitors\\Source.cpp",
+              "RelativeToolTip": "1. Monitors\\Source.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T05:04:08.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
